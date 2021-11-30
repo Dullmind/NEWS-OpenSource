@@ -1,5 +1,5 @@
 # OpenSource: RECAP 
-* insert title gif image here * 
+
 ![IMG_5836](https://user-images.githubusercontent.com/95053843/143777833-a0099d0b-ea89-499f-aee6-b100d039e020.PNG)
 
 ## Abstract
