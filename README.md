@@ -1,11 +1,11 @@
-# OpenSource: RECAP 
+# OpenSource101 
 
 ![IMG_5836](https://user-images.githubusercontent.com/95053843/143777833-a0099d0b-ea89-499f-aee6-b100d039e020.PNG)
 
 ## Abstract
 There is no doubt that **Open Source Software** is now an integral part of our online community as it has been acknowledged and utilized by major companies and organizations across the globe. Having even a brief knowledge of its history will allow you to gain an in-depth understanding of modern day open source.
 
-For all of those that have little to no knowledge in open source, don't worry! This log will be a platform for you to gain all the information you will need to have the basic understanding of Open Source. Call it an open source 101 if you'd like:) 
+For all of those that have little to no knowledge in open source, don't worry! This log will be a platform for you to gain all the information you will need to have the basic understanding of Open Source. Call it an **Open Source 101** if you'd like:) 
 
 ## Basics 
 
@@ -24,7 +24,7 @@ The norm shifted when SHARE (IBM) first initiated the change in selling software
 
 As Jim Zemlin, Executive Director of Linux Foundation said, 
 
-> “Software was a finite commodity that people hoarded and wanted to sell as a product.” 
+> “Software was a finite commodity that people hoarded and wanted to sell as a product.” (Zemlin, Jim. The Rise of Open-Source Software, CNBC)
 
 ## Modern Day Update 
 
@@ -49,11 +49,15 @@ As you can see, the range in variety further proves the necessity of OSS in our 
 
 ## Conclusion
 
-My intention from this log was to educate you about OSS, however, I don't want to stop here. For this reason, I will continue to contribute into this same log, adding up-to-date information and current news you have to be aware about. 
+Although it is understandable some companies wish to keep their software a proprietary secret to maintain originality, limit competition, and avoid risks of plagiarism; I strongly believe the **aggregate benefit outweighs the potential threats**. Rather than fearing the uncertainty, why not allow specialist developers from all over the world to *voluntunteerily* help improve your program?  
+
+My intention from this log was to educate you about OSS, however, I don't want to stop here. For this reason, I will continue to contribute to this same log, adding up-to-date information and current news you should be aware about. 
 
 I hope to see you again!
 
 Contact me if you have any questions: <mimi.OSS@gmail.com>
 
-Updated 29 November 2021
+Mimi Koshi
+
+Updated 30 November 2021
 
